@@ -29,8 +29,8 @@ O programa exibe um menu interativo no terminal com as seguintes opções:
    ```bash
    python atividade_formativa.py
    
-```markdown
-# 👤 Autor
+
+#  Autor
 Desenvolvido por **Enzo Yan Wilkosz** como parte da faculdade de Análise e Desenvolvimento de Sistemas.
 [LinkedIn](https://www.linkedin.com/in/enzo-yan-wilkosz-292a05388/) | [GitHub](https://github.com/Enzo22321)
    
